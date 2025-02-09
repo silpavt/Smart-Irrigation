@@ -1,8 +1,8 @@
 # Smart-Irrigation-System-Using-ESP32-Blynk-App
 
-# TEAM NAME: ELECTROBOTS
+### TEAM NAME: ELECTROBOTS
 
-# TEAM MEMBERS
+### TEAM MEMBERS
 Member 1: SRAVYA SH- NSS College of Engineering
 Member 2: SILPA VT - NSS College of Engieering
 Member 3: SHAHINA S - NSS College of Engieering
