@@ -49,3 +49,7 @@ This system automates watering based on soil moisture levels while ensuring the 
 
   ## Diagrams
   ![Screenshot (709)](https://github.com/user-attachments/assets/c0b7c3ce-cce3-45ff-a5c4-24b45a17c4f4)
+
+  ## Build Photos
+  ![smart irrigation system](https://github.com/user-attachments/assets/4f5c2a07-2569-46ba-8bb9-cdc0a2f23ae6)
+
