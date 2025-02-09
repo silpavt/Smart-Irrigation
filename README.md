@@ -1,4 +1,4 @@
-#SMART IRRIGATION SYSTEM USING ESP32
+# Smart-Irrigation-System-Using-ESP32-Blynk-App
 
 #Team Name: ELECTROBOTS
 
